@@ -17,12 +17,12 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 ## Kamran Arif's Cloud Journey
 
 
-[✍️ Tell us why you started this challenge]
+Curiosity over cloud computing and its increasing demand encouraged me to start this journey.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+After completing this challenge I would be proceeding towards getting certified in AWS, Azure and GCP sequentially.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+
+https://www.linkedin.com/in/kamranarif1611/
 
 ## Stepping out the door
 

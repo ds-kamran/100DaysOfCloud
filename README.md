@@ -19,7 +19,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 Curiosity over cloud computing and its increasing demand encouraged me to start this journey.
 
-After completing this challenge I would be proceeding towards getting certified in AWS, Azure and GCP sequentially.
+After completing this challenge, I will be proceeding towards getting certified in AWS, Azure and GCP sequentially.
 
 
 https://www.linkedin.com/in/kamranarif1611/

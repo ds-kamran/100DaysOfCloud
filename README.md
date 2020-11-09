@@ -22,7 +22,7 @@ Curiosity over cloud computing and its increasing demand encouraged me to start 
 After completing this challenge, I will be proceeding towards getting certified in AWS, Azure and GCP sequentially.
 
 
-https://www.linkedin.com/in/kamranarif1611/
+https://www.linkedin.com/in/karifa/
 
 ## Stepping out the door
 
